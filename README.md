@@ -1,2 +1,1 @@
-# neweb
-quotes
+# web: https://hamcodec.github.io/neweb/ #
